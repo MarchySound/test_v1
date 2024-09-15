@@ -69,7 +69,8 @@ return [
     |
     */
 
-    'timezone' => 'UTC',
+    // 'timezone' => 'UTC',
+    'timezone' => 'America/Port_of_Spain',
 
     /*
     |--------------------------------------------------------------------------
