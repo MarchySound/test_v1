@@ -1,3 +1,18 @@
-<div>
-    <!-- Waste no more time arguing what a good man should be, be one. - Marcus Aurelius -->
-</div>
+<x-mylayouts.layout-default>
+
+
+    <h1>Store Page</h1>
+
+    <div class="row">
+
+        <div class="col-md-4">
+            <img style="width: 200px; height: 200px" src="storage/images/products/iphone1-1.jpg" alt="image">
+            <p>Iphone 32</p>
+            <p>$500.00</p>
+            <p><a href="#">View</a></p>
+        </div>
+
+    </div>
+
+
+</x-mylayouts.layout-default>
